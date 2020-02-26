@@ -7,7 +7,7 @@ This report is for Capstone Project in Coursera [Applied Data Science Capstone](
 Assume that I want to open a successful Chinese restaurant in a U.S. city.
 
 To achieve this goal, first of all I need to choose a city in U.S. Since it is a Chinese restaurant, a multi-cultural metropolis sounds promising. So I would like to select San Francisco.
-![SF Map](san-francisco-autofill-map1.jpg)
+![SF Map](https://ljmoore.files.wordpress.com/2013/02/san-francisco-autofill-map1.jpg?w=500)
 
 The second step is to choose an ideal location of the restaurant in the city. I can leverage the Foursquare location data and machine learning skills to learn which are the most popular areas for Chinese restaurants. 
 
