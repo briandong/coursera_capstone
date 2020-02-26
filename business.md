@@ -19,4 +19,4 @@ Our target is to find the most popular areas for Chinese restaurants in San Fran
 
 So the first thing is to divide San Francisco city into certain areas. We can do that based on on-line postal code (ZIP) information.
 
-The second is to get necessary location data in all the areas utilizing Foursquare API. After data cleaning, we can use the data to cluster the areas into different types. Then we pick the cluster where Chinese restaurants are more popular. 
+The second is to get necessary location data in all the areas utilizing Foursquare API. After data cleaning, we can use the data to cluster the areas into different types. Then we pick up the cluster where Chinese restaurants are more popular. 
